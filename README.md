@@ -6,6 +6,9 @@
 ![rounded](https://capsule-render.vercel.app/api?type=rounded&color=9999FF&text=Hi!%20I'm%20Sujin!&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
 
+Tech Stack
+<img src="https://img.shields.io/badge/Javascript-F7931E?style=flat-square&logo=Gmail&logoColor=white"/><img src="https://img.shields.io/badge/React-F7931E?style=flat-square&logo=Gmail&logoColor=white"/><img src="https://img.shields.io/badge/Typescript-F7931E?style=flat-square&logo=Gmail&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-F7931E?style=flat-square&logo=Gmail&logoColor=white"/><img src="https://img.shields.io/badge/CSS-F7931E?style=flat-square&logo=Gmail&logoColor=white"/>
+
 - 👋 Hi, I’m @duckguya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
