@@ -1,5 +1,5 @@
 <a href="https://duckguya.github.io/mysite/" target="_blank">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Undertale&logoColor=white"/>
+<img src="https://img.shields.io/badge/BLOG-3DDC84?style=flat-square&logo=Undertale&logoColor=white"/>
 </a>
 
 - 👋 Hi, I’m @duckguya
