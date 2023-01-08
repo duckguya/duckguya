@@ -3,7 +3,7 @@
 </a>
 <img src="https://img.shields.io/badge/duckguya@gmail.com-F7931E?style=flat-square&logo=Gmail&logoColor=white"/>
 
-![rounded](https://capsule-render.vercel.app/api?type=rounded&color=#9999FF&text=Hi!%20I'm%20Sujin!&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+![rounded](https://capsule-render.vercel.app/api?type=rounded&color=9999FF&text=Hi!%20I'm%20Sujin!&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
 
 - 👋 Hi, I’m @duckguya
